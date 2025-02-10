@@ -1,0 +1,19 @@
+CREATE DATABASE WaterData
+GO
+
+USE WaterData
+GO
+
+CREATE TABLE Station (
+	IdStation INT PRIMARY KEY,
+	PosX DECIMAL(9, 6) NOT NULL,
+	PosY DECIMAL(9, 6) NOT NULL,
+	Location VARCHAR(50) NOT NULL
+)
+
+CREATE TABLE Parameter (
+	IdParameter INT PRIMARY KEY,
+	ParameterName VARCHAR(50) NOT NULL,
+	Value VARCHAR(10) NOT NULL,
+	Unit VARCHAR(10) NOT NULL
+)
