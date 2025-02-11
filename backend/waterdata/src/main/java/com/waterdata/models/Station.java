@@ -12,10 +12,10 @@ public class Station {
     @Column(name = "IdStation")
     private int idStation;
 
-    @Column(name = "PosX", precision = 9, scale = 6)
+    @Column(name = "PosX", precision = 6)
     private double posX;
 
-    @Column(name = "PosY", precision = 9, scale = 6)
+    @Column(name = "PosY", precision = 6)
     private double posY;
 
     @Column(name = "Location", length = 50)

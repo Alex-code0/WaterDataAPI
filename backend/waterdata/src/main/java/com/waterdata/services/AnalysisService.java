@@ -14,7 +14,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 @Service
 public class AnalysisService {
 
-    @Value("${waterdata.base_url}")
+    @Value("${waterdata.base-url}")
     private String BASE_URL;
 
     @Value("${waterdata.analysis-url}")
