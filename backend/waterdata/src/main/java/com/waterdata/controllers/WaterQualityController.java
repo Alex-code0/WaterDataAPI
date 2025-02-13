@@ -1,7 +1,8 @@
 package com.waterdata.controllers;
 
-import com.waterdata.services.AnalysisService;
+import com.waterdata.services.StationDataService;
 import com.waterdata.services.ParameterDataService;
+import com.waterdata.services.AnalysisService;
 
 import org.springframework.http.ResponseEntity;
 
@@ -19,18 +20,22 @@ import org.springframework.web.bind.annotation.RestController;
 public class WaterQualityController {
 
     @Autowired
-    private AnalysisService analysisService;
+    private StationDataService stationDataService;
 
     @Autowired
     private ParameterDataService parameterDataService;
 
+    @Autowired
+    private AnalysisService analysisService;
+
     @GetMapping("/waterquality")
     public ResponseEntity<?> waterQualityRequest(@RequestParam("station") String station, @RequestParam("year") String year) {
         try {
-            JsonNode waterQuality = analysisService.fetchWaterData(station, year);
-            JsonNode waterParameters = parameterDataService.fetchParametersData();
+            JsonNode stationsNodes = stationDataService.fetchStationsData(station);
+            JsonNode parametersNodes = parameterDataService.fetchParametersData();
+            JsonNode analysisNodes = analysisService.fetchWaterData(station, year);
 
-            return ResponseEntity.ok(waterQuality);
+            
         } catch(Exception e) {
             e.printStackTrace();
             return ResponseEntity.status(500).body("Error: " + e.getMessage());
