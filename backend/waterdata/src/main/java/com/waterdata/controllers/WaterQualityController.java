@@ -8,6 +8,8 @@ import org.springframework.http.ResponseEntity;
 
 import com.fasterxml.jackson.databind.JsonNode;
 
+import java.util.HashMap;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -28,6 +30,15 @@ public class WaterQualityController {
     @Autowired
     private AnalysisService analysisService;
 
+    public String getStationName(String stationId, JsonNode stationsNodes) {
+        for (JsonNode node : stationsNodes) {
+            if (node.has("MOScode") && node.get("MOScode").asText().equals(stationId)) {
+                return node.get("HYDWNAME").asText();
+            }
+        }
+        return "Station not found";
+    }
+
     @GetMapping("/waterquality")
     public ResponseEntity<?> waterQualityRequest(@RequestParam("station") String station, @RequestParam("year") String year) {
         try {
@@ -35,7 +46,8 @@ public class WaterQualityController {
             JsonNode parametersNodes = parameterDataService.fetchParametersData();
             JsonNode analysisNodes = analysisService.fetchWaterData(station, year);
 
-            
+            HashMap<String, Object> response = new HashMap<>();
+            response.put("stationName", getStationName(station, stationsNodes));
         } catch(Exception e) {
             e.printStackTrace();
             return ResponseEntity.status(500).body("Error: " + e.getMessage());
