@@ -1,0 +1,593 @@
+{
+    "waterData": {
+      "PAR0163": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "p'p-DDD",
+        "parameterValue": "0.002",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0162": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Mercur dizolvat",
+        "parameterValue": "0.15",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0161": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Mercur total",
+        "parameterValue": "0.15",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0159": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Cadmiu dizolvat",
+        "parameterValue": "0.25",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0313": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Piren",
+        "parameterValue": "0.0105",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0158": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Plumb dizolvat",
+        "parameterValue": "1.5",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0157": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Nichel dizolvat",
+        "parameterValue": "1.5",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0311": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Indeno(1,2,3-cd)Pyrene",
+        "parameterValue": "0.0265",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0156": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Zinc dizolvat",
+        "parameterValue": "1.5",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0310": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Endrin",
+        "parameterValue": "0.016",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0155": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Cupru dizolvat",
+        "parameterValue": "3.6794",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0154": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Detergenți anionoactivi",
+        "parameterValue": "0.0075",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0153": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Miros",
+        "parameterValue": "0",
+        "parameterUnit": "Puncte"
+      },
+      "PAR0317": {
+        "analysisDate": "2014-03-03 22:00:00+00",
+        "parameterName": "DDT total",
+        "parameterValue": "0",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0316": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Aldrin",
+        "parameterValue": "0.0045",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0152": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Zinc total",
+        "parameterValue": "3.5015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0151": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Transparenţa",
+        "parameterValue": "21",
+        "parameterUnit": "cm"
+      },
+      "PAR0150": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Materii in suspensii",
+        "parameterValue": "70",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0149": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Sulfați",
+        "parameterValue": "67.2",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0148": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Silicați",
+        "parameterValue": "3",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0302": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Antracen",
+        "parameterValue": "0.0035",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0147": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Saturaţia oxigenului",
+        "parameterValue": "92",
+        "parameterUnit": "%satO2/l"
+      },
+      "PAR0146": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Reziduu fix",
+        "parameterValue": "263",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0145": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Produse petroliere",
+        "parameterValue": "0.02",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0144": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Plumb total",
+        "parameterValue": "1.5",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0143": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Azotit de azot",
+        "parameterValue": "0.02",
+        "parameterUnit": "mgN/l"
+      },
+      "PAR0142": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Azotat de azot",
+        "parameterValue": "0.37",
+        "parameterUnit": "mgN/l"
+      },
+      "PAR0309": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Endosulfan α",
+        "parameterValue": "0.0115",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0308": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Dieldrin",
+        "parameterValue": "0.009",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0307": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Benzo(k)fluoranten",
+        "parameterValue": "0.01",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0306": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Benzo(g,h,i)perilen",
+        "parameterValue": "0.0265",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0305": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Benzo(b)fluoranten",
+        "parameterValue": "0.0085",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0141": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Nichel total",
+        "parameterValue": "1.5",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0140": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Sodiu și Potasiu",
+        "parameterValue": "24.3",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0138": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Magneziu",
+        "parameterValue": "7.54",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0137": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Endosulfan β",
+        "parameterValue": "0.0125",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0136": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Alcalinitate totală",
+        "parameterValue": "162",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0135": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "γ-HCH",
+        "parameterValue": "0.0035",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0134": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "β-HCH",
+        "parameterValue": "0.0095",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0133": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "a-HCH",
+        "parameterValue": "0.003",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0132": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Potasiu",
+        "parameterValue": "3.8",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0131": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Sodiu",
+        "parameterValue": "23",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0139": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Mineralizarea",
+        "parameterValue": "344",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0130": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fosfor total",
+        "parameterValue": "0.05",
+        "parameterUnit": "mg P/l"
+      },
+      "PAR0127": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fier total",
+        "parameterValue": "0.05",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0126": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Duritate totală",
+        "parameterValue": "3.69",
+        "parameterUnit": "mg.ecv/l"
+      },
+      "PAR0125": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Temperatura aerului",
+        "parameterValue": "15.2",
+        "parameterUnit": "grade Celsius"
+      },
+      "PAR0124": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "o'p-DDT",
+        "parameterValue": "0.0045",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0123": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "o'p-DDE",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0122": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "o'p-DDD",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0121": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Colorație",
+        "parameterValue": "10",
+        "parameterUnit": "grade"
+      },
+      "PAR0120": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Cupru total",
+        "parameterValue": "7.2202",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0129": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Orto-Fosfați",
+        "parameterValue": "0.013",
+        "parameterUnit": "mg P/l"
+      },
+      "PAR0128": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fenoli",
+        "parameterValue": "0.001",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0116": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Сloruri",
+        "parameterValue": "21.3",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0115": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Cadmiu total",
+        "parameterValue": "0.25",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0114": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "CCO-Mn",
+        "parameterValue": "2.4",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0113": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "CCO-Cr",
+        "parameterValue": "17.8",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0112": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "CBO5",
+        "parameterValue": "1.99",
+        "parameterUnit": "mgO2/l"
+      },
+      "PAR0111": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Calciu  ",
+        "parameterValue": "61.5",
+        "parameterUnit": "mg/l"
+      },
+      "PAR0105": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Azot de amoniu",
+        "parameterValue": "0.01",
+        "parameterUnit": "mg N/l"
+      },
+      "PAR0347": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Benzo(a)piren",
+        "parameterValue": "0.011",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0104": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Conductivitatea",
+        "parameterValue": "378",
+        "parameterUnit": "μS/cm"
+      },
+      "PAR0346": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Crisen",
+        "parameterValue": "0.0095",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0103": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Oxigen dizolvat",
+        "parameterValue": "8.75",
+        "parameterUnit": "mgO2/l"
+      },
+      "PAR0345": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Benzo(a)antracen",
+        "parameterValue": "0.0085",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0102": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "pH",
+        "parameterValue": "8.31",
+        "parameterUnit": "unități de pH"
+      },
+      "PAR0344": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fenantren",
+        "parameterValue": "0.0025",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0101": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Temperatura apei",
+        "parameterValue": "17.4",
+        "parameterUnit": "grade"
+      },
+      "PAR0343": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-180",
+        "parameterValue": "0.0025",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0342": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-118",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0340": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-153",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0108": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Azot mineral",
+        "parameterValue": "0.39",
+        "parameterUnit": "mgN/l"
+      },
+      "PAR0348": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Dibenzo(a,h)antracen",
+        "parameterValue": "0.025",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0336": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-28",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0330": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Pentaclorbenzen",
+        "parameterValue": "0.001",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0339": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-138",
+        "parameterValue": "0.002",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0338": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-101",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0337": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "BPC-52",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0173": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Turbiditate",
+        "parameterValue": "3.14",
+        "parameterUnit": "FTU"
+      },
+      "PAR0172": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fluorene",
+        "parameterValue": "0.0055",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0171": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Acenaphthene",
+        "parameterValue": "0.0055",
+        "parameterUnit": "null"
+      },
+      "PAR0170": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Acenaphthylene",
+        "parameterValue": "0.003",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0204": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "MZB-Indice Saprobic",
+        "parameterValue": "2",
+        "parameterUnit": "-"
+      },
+      "PAR0169": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Heptaclor epoxid B",
+        "parameterValue": "0.0045",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0323": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Hexaclorbenzen",
+        "parameterValue": "0.0015",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0202": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Bacterii coliforme fecale",
+        "parameterValue": "17000",
+        "parameterUnit": "UFC/100 ml"
+      },
+      "PAR0168": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Heptaclor epoxid A",
+        "parameterValue": "0.007",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0322": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fluoranten",
+        "parameterValue": "0.0075",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0201": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Bacterii coliforme totale",
+        "parameterValue": "36000",
+        "parameterUnit": "UFC/100 ml"
+      },
+      "PAR0167": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Mirex",
+        "parameterValue": "0.0025",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0166": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Metoxiclor",
+        "parameterValue": "0.012",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0165": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "p'p-DDT",
+        "parameterValue": "0.0125",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0164": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "p'p-DDE",
+        "parameterValue": "0.002",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0209": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fitoplancton-Indice Saprobic",
+        "parameterValue": "1.85",
+        "parameterUnit": "-"
+      },
+      "PAR0207": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Fitobentos-Indice saprobic",
+        "parameterValue": "1.96",
+        "parameterUnit": "-"
+      },
+      "PAR0327": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "Naftalină",
+        "parameterValue": "0.001",
+        "parameterUnit": "µg/l"
+      },
+      "PAR0206": {
+        "analysisDate": "2014-10-01 21:00:00+00",
+        "parameterName": "MZB-Indice oligochetic",
+        "parameterValue": "0.63",
+        "parameterUnit": "null"
+      }
+    },
+    "stationName": "r.Prut – s.Branişte, amonte"
+  }
